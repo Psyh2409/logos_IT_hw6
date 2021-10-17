@@ -1,0 +1,45 @@
+body #bd{
+    background-color: rgb(191, 178, 202);
+}
+.tbl {
+    border: 5px solid rgb(39, 1, 1);
+    border-style: double;
+    background-color: rgb(232, 185, 222);
+    width: 90%;
+    text-align: center;
+    padding: 1rem;
+    font-size: small;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 5rem;
+}
+.heart{
+    padding: 1rem;
+}
+.heart i:last-child{
+    display: none;
+}
+.heart:hover i:first-child{
+    display: none;
+}
+.heart:hover i:last-child{
+    display: block;
+}
+.far, .fas{
+    line-height: 2rem;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.black{
+    color: black;
+}
+.blue{
+    color: blue;
+}
+.orange{
+    color: orange;
+}
