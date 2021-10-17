@@ -1,10 +1,10 @@
-body #bd{
-    background-color: rgb(191, 178, 202);
+body{
+    background-color: blueviolet;
 }
 .tbl {
     border: 5px solid rgb(39, 1, 1);
     border-style: double;
-    background-color: rgb(232, 185, 222);
+    background-color: rgb(226, 106, 200);
     width: 90%;
     text-align: center;
     padding: 1rem;
